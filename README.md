@@ -1,13 +1,13 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calculadora" src=".github/capa.png" width="80%">
+  <img alt="calculadora" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A calculadora é uma aplicação que tem como objetivo colocar em prática as tecnologias e realizar calculos de forma fácil.
+A calculadora é uma aplicação que tem como objetivo colocar em prática as tecnologias acima e realizar calculos de forma fácil.
 
 Feito com ♥ by Lincoln silva :wave:
 
